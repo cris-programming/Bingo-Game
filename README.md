@@ -4,8 +4,6 @@
 
 This is a Bingo game implemented in Python using the Tkinter library. It allows users to play a Bingo game with a graphical user interface.
 
-![Bingo Game](bingo.png)
-
 ## Features
 
 - Generates random Bingo numbers.
