@@ -1,4 +1,3 @@
-```markdown
 # Bingo Game
 
 This is a simple Bingo game implemented in Python using Tkinter.
@@ -31,4 +30,3 @@ This is a simple Bingo game implemented in Python using Tkinter.
 - Click the "Draw" button to draw a Bingo number.
 - Click the "Reset" button to reset the Bingo table.
 - Use the "Read" and "Big Number" buttons to control the options.
-```
