@@ -47,8 +47,6 @@ python main.pyw
 
 - Click the "Big Number" button to enable or disable the display of big numbers.
 
-- You can mark called numbers by clicking on them.
-
 - Click the "Reset" button to start a new game.
 
 ## Acknowledgments
